@@ -1,0 +1,36 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "maprot"
+version = "0.1.0"
+description = "Brain rot on a map — turn travel reels into a self-contained interactive trip map"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+authors = [{ name = "Harsh Jain" }]
+keywords = ["travel", "maps", "instagram", "reels", "itinerary", "geocoding", "svg"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Topic :: Multimedia :: Video",
+  "Topic :: Scientific/Engineering :: GIS",
+]
+dependencies = ["yt-dlp>=2024.1.1"]
+
+[project.optional-dependencies]
+# Apple Silicon: fastest local transcription
+mlx = ["mlx-whisper>=0.3"]
+# everything else
+whisper = ["faster-whisper>=1.0"]
+
+[project.scripts]
+maprot = "maprot.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/harshh-jainn/maprot"
+Issues = "https://github.com/harshh-jainn/maprot/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["maprot"]

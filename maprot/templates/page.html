@@ -1,0 +1,67 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,600&family=Spectral:ital,wght@0,300;0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+{{STYLE}}
+</style>
+
+<div class="wrap">
+  <header class="masthead">
+    <div class="label">{{EYEBROW}}</div>
+    <h1>{{TITLE}}</h1>
+    <p>{{SUBTITLE}}</p>
+    <div class="meta">
+      <span class="label">Pinned <b id="m-count">0</b></span>
+      <span class="label">Regions <b id="m-regions"></b></span>
+      <span class="label">Updated <b>{{UPDATED}}</b></span>
+    </div>
+  </header>
+
+  <main>
+    <div class="mapcol">
+      <figure class="plate">
+        <div class="mapbox">
+          <svg viewBox="{{VIEWBOX}}" role="img" aria-label="{{MAP_ALT}}">
+            <g id="grat" class="grat"></g>
+            <g id="grat-lbl"></g>
+{{LAND}}
+            <g id="towns"></g>
+            <path id="route" class="route"></path>
+            <g id="leaders"></g>
+            <g id="pins"></g>
+          </svg>
+          <div class="pop" id="pop" hidden></div>
+        </div>
+        <figcaption>
+          <span class="label">Mercator &middot; Natural Earth 10m</span>
+          <span class="label">1&deg; graticule</span>
+        </figcaption>
+      </figure>
+      <ul class="index" id="index"></ul>
+    </div>
+    <aside class="dossier" id="dossier" aria-live="polite"></aside>
+  </main>
+
+  <section class="notes">
+    <div class="label">Planning notes</div>
+    <h2>{{NOTES_TITLE}}</h2>
+    <p class="intro">{{NOTES_INTRO}} <span id="notes-src"></span></p>
+    <ol id="notes-list"></ol>
+  </section>
+
+  <footer class="foot">{{FOOTER}}</footer>
+</div>
+
+<div id="lb" role="dialog" aria-modal="true" aria-label="Enlarged photo">
+  <img id="lb-img" alt="">
+  <span class="hint label">Click anywhere or press Esc to close</span>
+</div>
+
+<script>
+window.BOARD = {{DATA}};
+</script>
+<script>
+{{APP}}
+</script>

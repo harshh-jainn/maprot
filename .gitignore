@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# generated pages (they embed photos and get large)
+*.out.html
+/out/
+
+# working media that is not committed to a board
+/boards/*/work/
+
+# local tool caches
+.cache/
+.DS_Store

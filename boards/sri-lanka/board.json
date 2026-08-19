@@ -1,0 +1,571 @@
+{
+  "schema": 1,
+  "slug": "sri-lanka",
+  "title": "Sri Lanka Pinboard",
+  "eyebrow": "Trip board · collected from reels",
+  "subtitle": "Tap a pin for a quick look, then open the full write-up. Hollow rings are reference towns; the dashed line is the standard circuit in road order. Where places sit within a kilometre of each other, their pins fan out from a shared anchor dot.",
+  "country": "LKA",
+  "updated": "2026-08-19",
+  "route": [
+    "Colombo",
+    "Dambulla",
+    "Nuwara Eliya",
+    "Ella",
+    "Weligama"
+  ],
+  "reference_cities": [
+    {
+      "name": "Jaffna",
+      "lat": 9.6615,
+      "lon": 80.0255,
+      "side": "r"
+    },
+    {
+      "name": "Anuradhapura",
+      "lat": 8.3114,
+      "lon": 80.4037,
+      "side": "l"
+    },
+    {
+      "name": "Trincomalee",
+      "lat": 8.5874,
+      "lon": 81.2152,
+      "side": "l"
+    },
+    {
+      "name": "Sigiriya",
+      "lat": 7.957,
+      "lon": 80.7603,
+      "side": "r"
+    },
+    {
+      "name": "Kandy",
+      "lat": 7.2906,
+      "lon": 80.6337,
+      "side": "r"
+    },
+    {
+      "name": "Galle",
+      "lat": 6.0535,
+      "lon": 80.221,
+      "side": "l"
+    }
+  ],
+  "places": [
+    {
+      "n": 1,
+      "name": "Dambulla Cave Temple",
+      "loc": "Dambulla",
+      "type": "Cave temple · UNESCO",
+      "region": "Central",
+      "city": "Dambulla, Matale District, Central Province",
+      "lat": 7.8567,
+      "lon": 80.6492,
+      "photos": [
+        {
+          "file": "01-dambulla-cave-temple-a.jpg",
+          "alt": "Gilded seated Buddha beneath a painted cave ceiling"
+        },
+        {
+          "file": "01-dambulla-cave-temple-b.jpg",
+          "alt": "White colonnaded shrine buildings under the overhanging cliff"
+        },
+        {
+          "file": "01-dambulla-cave-temple-c.jpg",
+          "alt": "The flagged path climbing to the caves"
+        }
+      ],
+      "one": "Five painted caves cut into one granite massif, in use for 2,000 years.",
+      "unique": "Five caves hollowed into the underside of <em>one granite massif</em>, 160&nbsp;m above the plains. The murals are painted straight onto the curving rock, and the caves hold 150+ Buddhas including a reclining figure cut from the living stone. In continuous use for 2,000 years.",
+      "desc": "Around 360 steps bring you to a white colonnaded terrace under an enormous cliff, and behind it five low caves open one after another into the hillside. You walk through barefoot, close enough to touch the statues, with painted ceilings a foot above your head. Monkeys work the stairs and are bold about bags.",
+      "facts": [
+        [
+          "Hours",
+          "07:00–19:00, but tickets stop at 17:00"
+        ],
+        [
+          "Entry",
+          "~USD 10 / LKR 1,500 — cash only"
+        ],
+        [
+          "Climb",
+          "~360 steep steps, little shade"
+        ],
+        [
+          "Dress",
+          "Shoulders and knees covered; shoes off"
+        ]
+      ],
+      "near": [
+        [
+          "Sigiriya Rock",
+          "24 km · 30 min"
+        ],
+        [
+          "Kandy",
+          "~72 km · 2–2.5 h"
+        ],
+        [
+          "Colombo",
+          "~148 km · 4 h"
+        ]
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/reel/DasyNaQvTQb/",
+          "by": "@jessicastevens",
+          "dur": "35 s"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "name": "Nuwara Eliya",
+      "loc": "Nuwara Eliya",
+      "type": "Hill town · tea country",
+      "region": "Central",
+      "city": "Nuwara Eliya District, Central Province",
+      "lat": 6.974,
+      "lon": 80.767,
+      "photos": [
+        {
+          "file": "02-nuwara-eliya-a.jpg",
+          "alt": "Orange sunset over the town and its curving road"
+        },
+        {
+          "file": "02-nuwara-eliya-b.jpg",
+          "alt": "Lake Gregory flat and silver below the ridge"
+        },
+        {
+          "file": "02-nuwara-eliya-c.jpg",
+          "alt": "Balcony view across the golf course green"
+        }
+      ],
+      "one": "The coldest town in Sri Lanka — 12–14°C, and no one owns a fan.",
+      "unique": "The <em>coldest town in Sri Lanka</em> — 12–14&deg;C in the reel, and hotels here have neither fans nor air conditioning. Built as a British hill station at about 1,868&nbsp;m, it kept the red roofs, clipped hedges, racecourse and golf course. Hence &ldquo;Little England&rdquo;.",
+      "desc": "From above town: a broad green sweep of turf, a road curving around it, Lake Gregory flat and silver beyond, and a long ridge closing the horizon. Sunsets run orange over the hills, mist fills the valley at dawn, and tea slopes climb on every side. You will want a jacket in the evening, which is rather the point.",
+      "facts": [
+        [
+          "Climate",
+          "12–14&deg;C — pack real layers"
+        ],
+        [
+          "Elevation",
+          "~1,868 m / 6,128 ft"
+        ],
+        [
+          "Rooms",
+          "Mostly no fans or AC; look for heating"
+        ],
+        [
+          "Rail",
+          "Nanu Oya station, ~8 km — the scenic line"
+        ]
+      ],
+      "near": [
+        [
+          "Golden Ridge (pin 3)",
+          "~2 km"
+        ],
+        [
+          "Horton Plains",
+          "~32 km · 1.5 h"
+        ],
+        [
+          "Ella",
+          "~60 km · 2.5–3 h"
+        ]
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/reel/DbnNrtCRCJj/",
+          "by": "@travelwithreveusehaj",
+          "dur": "15 s"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "name": "The Golden Ridge",
+      "loc": "Nuwara Eliya",
+      "type": "Resort · hotel",
+      "region": "Central",
+      "city": "Kandy Road, Bambarakele, Nuwara Eliya",
+      "lat": 6.9817,
+      "lon": 80.7544,
+      "photos": [
+        {
+          "file": "03-golden-ridge-a.jpg",
+          "alt": "Private open-air Jacuzzi on a balcony above a tea valley"
+        },
+        {
+          "file": "03-golden-ridge-b.jpg",
+          "alt": "Villa blocks terraced down the hillside"
+        },
+        {
+          "file": "03-golden-ridge-c.jpg",
+          "alt": "Hydrangeas along the drive with mist in the valley"
+        }
+      ],
+      "one": "Heated rooms with private open-air tubs hanging over a tea valley.",
+      "unique": "A cold-climate resort that sells the cold: <em>82 heated, soundproofed rooms</em>, many with a private open-air Jacuzzi looking down a tea valley, facing Bambarakele and Piduruthalagala &mdash; the island&rsquo;s highest peak. Sitting in hot water outdoors at 12&deg;C is the entire proposition.",
+      "desc": "Villa blocks step down a steep hillside in terraces linked by lawns, stone paths and beds of hydrangeas. The balconies carry a plunge tub right at the railing, so the valley drops away in front of you. High tea comes out on a terrace above the slopes, a bar works the rooftop at dusk, and at first light the town below sits under a lid of mist.",
+      "facts": [
+        [
+          "Elevation",
+          "7,339 ft by the resort&rsquo;s own reckoning"
+        ],
+        [
+          "Rooms",
+          "82, heated and soundproofed; private Jacuzzis"
+        ],
+        [
+          "Eating",
+          "Four venues plus the Skyline rooftop"
+        ],
+        [
+          "Also",
+          "Spa, gym, indoor kids&rsquo; club"
+        ]
+      ],
+      "near": [
+        [
+          "Nuwara Eliya town (pin 2)",
+          "~2 km"
+        ],
+        [
+          "Lake Gregory",
+          "~4 km"
+        ],
+        [
+          "Nanu Oya station",
+          "~10 km"
+        ]
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/reel/DaK7UJho_UN/",
+          "by": "@wandering_unicorns",
+          "dur": "30 s"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "name": "Café Chill",
+      "loc": "Ella",
+      "type": "Restaurant · casual dining",
+      "region": "Uva",
+      "city": "Wellawaya–Ella–Kumbalwela Road, Ella, Uva Province",
+      "lat": 6.8742,
+      "lon": 81.0487,
+      "photos": [
+        {
+          "file": "04-cafe-chill-a.jpg",
+          "alt": "Passion fruit cheesecake plated with fruit sauce"
+        },
+        {
+          "file": "04-cafe-chill-b.jpg",
+          "alt": "A loaded sandwich on a wooden board"
+        },
+        {
+          "file": "04-cafe-chill-c.jpg",
+          "alt": "The open pavilion dining room at night"
+        }
+      ],
+      "one": "Ranked 2nd-best casual dining restaurant in the world — in a hill town.",
+      "unique": "Ranked <em>second of 25 casual dining restaurants worldwide</em> in TripAdvisor&rsquo;s Travellers&rsquo; Choice Best of the Best &mdash; from a small hill town most people drive straight through. The reviewer went back three times in three days.",
+      "desc": "An open-sided pavilion under heavy thatch on bleached driftwood posts, loud and full. The Sri Lankan chicken runs hotter than it sounds, fish fingers come on a mustard base, and wok chicken arrives with pineapple fried rice. Desserts are the reason to come: a passion fruit cheesecake, and a cashew chocolate cake with local vanilla ice cream.",
+      "facts": [
+        [
+          "Ranking",
+          "2nd of 25, Casual Dining — World"
+        ],
+        [
+          "Order",
+          "Cashew chocolate cake; the cheesecake"
+        ],
+        [
+          "Drink",
+          "Passion fruit arrack ginger beer"
+        ],
+        [
+          "Where",
+          "On Ella&rsquo;s main road — easy to miss"
+        ]
+      ],
+      "near": [
+        [
+          "Ravana Pool Club (pin 5)",
+          "~1.5 km"
+        ],
+        [
+          "Little Adam&rsquo;s Peak",
+          "~2 km"
+        ],
+        [
+          "Nine Arch Bridge",
+          "~2.5 km"
+        ]
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/reel/DZaSLuZM181/",
+          "by": "@atharvaxzy",
+          "dur": "80 s"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "name": "Ravana Pool Club",
+      "loc": "Ella",
+      "type": "Pool club · day club",
+      "region": "Uva",
+      "city": "Newburgh, Ella–Passara Road, Uva Province",
+      "lat": 6.8683,
+      "lon": 81.0597,
+      "photos": [
+        {
+          "file": "05-ravana-pool-club-a.jpg",
+          "alt": "Bamboo pavilion curved over the turquoise pool"
+        },
+        {
+          "file": "05-ravana-pool-club-b.jpg",
+          "alt": "Swimming with the green mountain face behind"
+        },
+        {
+          "file": "05-ravana-pool-club-c.jpg",
+          "alt": "Daybeds on the terrace above the valley"
+        }
+      ],
+      "one": "Bali-style bamboo pool club on a hillside — about ₹1,700 for two hours.",
+      "unique": "A <em>Bali-style hillside pool club at Sri Lankan prices</em> &mdash; two hours in the water runs about &#8377;1,700. A bamboo pavilion curved like a wave sits over terraced turquoise pools, facing Ella&rsquo;s near-vertical mountain wall, with valley swings of the kind Bali charges a fortune for.",
+      "desc": "The pools step down the slope in rounded tiers, shallow enough to stand in, black parasols above and the bamboo shell arcing overhead. One side opens onto a wall of green mountain; the other has daybeds on timber decking above the trees. It is unmistakably built for the camera, but the setting is real and the food is better than a pool club needs.",
+      "facts": [
+        [
+          "Pool",
+          "From LKR 5,000 (~&#8377;1,700) / 2 h, towel included"
+        ],
+        [
+          "Sunbeds",
+          "From ~&#8377;10,000, redeemable on food for 4"
+        ],
+        [
+          "Distance",
+          "~3.7 km out of Ella — tuk-tuk it"
+        ],
+        [
+          "Timing",
+          "Midday light; it fills up later"
+        ]
+      ],
+      "near": [
+        [
+          "Café Chill (pin 4)",
+          "~1.5 km"
+        ],
+        [
+          "Ella town",
+          "~3.7 km · 10 min"
+        ],
+        [
+          "Nine Arch Bridge",
+          "~4 km"
+        ]
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/reel/DaqB0xes4r6/",
+          "by": "@saritapatell",
+          "dur": "9 s"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "name": "The Cliff",
+      "loc": "Weligama",
+      "type": "Clifftop restaurant · sunset bar",
+      "region": "Southern",
+      "city": "Bandarawatte, Kapparathota, Weligama, Southern Province",
+      "lat": 5.9751,
+      "lon": 80.4291,
+      "photos": [
+        {
+          "file": "06-the-cliff-a.jpg",
+          "alt": "The sun setting into the sea beyond the rocks"
+        },
+        {
+          "file": "06-the-cliff-b.jpg",
+          "alt": "Beanbags on the clifftop lawn among granite boulders"
+        },
+        {
+          "file": "06-the-cliff-c.jpg",
+          "alt": "Rope fence along the cliff edge at dusk"
+        }
+      ],
+      "one": "A clifftop lawn where the sun drops straight into the Indian Ocean.",
+      "unique": "A <em>lawn on top of a sea cliff</em>, set with beanbags between granite boulders and fenced only by rope, facing due west so the sun sets straight into the water in front of you. Two reels landed on it independently &mdash; one calling it the best caf&eacute; in Sri Lanka, the other the one that is actually worth the hype.",
+      "desc": "You sit on cropped grass among rounded boulders while the ground simply stops at a rope rail and the Indian Ocean starts a long way below. Seating is spread across four areas &mdash; The Lawn, The Terrace, The Cove and The Path &mdash; and the whole place is built around one event, which is the sun going down. Cocktails are strong, the seafood is the thing to order, and it fills with people who have all come for the same twenty minutes.",
+      "facts": [
+        [
+          "Booking",
+          "Reservations required, website only — book ahead"
+        ],
+        [
+          "Opens",
+          "From 17:00; go for sunset"
+        ],
+        [
+          "Cover",
+          "Redeemable cover charge — one couple reports ~&#8377;10,000, all redeemable on food and drink"
+        ],
+        [
+          "Season",
+          "South coast is at its best in winter, roughly Dec–Mar"
+        ]
+      ],
+      "near": [
+        [
+          "Weligama Bay",
+          "~2 km"
+        ],
+        [
+          "Mirissa",
+          "~7 km"
+        ],
+        [
+          "Galle",
+          "~30 km · 45 min"
+        ]
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/reel/DbifX30gEds/",
+          "by": "@dinewithtamana",
+          "dur": "9 s"
+        },
+        {
+          "url": "https://www.instagram.com/reel/DbN99XQI1xH/",
+          "by": "@sim.kbhatia",
+          "dur": "8 s"
+        }
+      ],
+      "approx": true,
+      "maps_query": "The Cliff Weligama"
+    },
+    {
+      "n": 7,
+      "name": "ITC Ratnadipa",
+      "loc": "Colombo",
+      "type": "Hotel · city landmark",
+      "region": "Western",
+      "city": "Galle Road, Kollupitiya, Colombo",
+      "lat": 6.9253,
+      "lon": 79.8454,
+      "photos": [
+        {
+          "file": "07-itc-ratnadipa-a.jpg",
+          "alt": "The twin towers seen from the air above the seafront"
+        },
+        {
+          "file": "07-itc-ratnadipa-b.jpg",
+          "alt": "Terrace table against the Colombo skyline at golden hour"
+        },
+        {
+          "file": "07-itc-ratnadipa-c.jpg",
+          "alt": "The lounge under a circular chandelier"
+        }
+      ],
+      "one": "A curved glass tower on the Colombo seafront, joined by a sky bridge.",
+      "unique": "Colombo&rsquo;s most conspicuous new building: a pair of <em>curved, scalloped glass towers</em> on the seafront linked high up by a sky bridge, with the Indian Ocean on one side and the city on the other. It is as much a landmark to look at as a place to stay &mdash; the reel is essentially about the view.",
+      "desc": "Rooms run floor-to-ceiling glass, so the water or the skyline fills the whole wall, and the curve of the building means the view bends away from you. Downstairs there are lounges under big sculptural chandeliers, a bar of globe pendants, restaurants set with white linen, and a pool deck screened by palms. It is polished and firmly in the splurge bracket — useful as a first or last night, since it is close to both the city and the coast road.",
+      "facts": [
+        [
+          "Where",
+          "Galle Road, Kollupitiya — on the seafront"
+        ],
+        [
+          "Use it for",
+          "A first or last night either side of a flight"
+        ],
+        [
+          "Look for",
+          "Sea-facing rooms; the sky bridge is the signature"
+        ],
+        [
+          "Note",
+          "Colombo is a base, not the trip — see the notes below"
+        ]
+      ],
+      "near": [
+        [
+          "Galle Face Green",
+          "~1 km"
+        ],
+        [
+          "Colombo airport (CMB)",
+          "~35 km · 1–1.5 h"
+        ],
+        [
+          "Dambulla",
+          "~148 km · 4 h"
+        ]
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/reel/DbLNQGkS7x8/",
+          "by": "@indrajithan",
+          "dur": "55 s"
+        }
+      ]
+    }
+  ],
+  "notes": {
+    "title": "Mistakes worth not making",
+    "intro": "One reel in the batch was not a place at all but a list of things tourists get wrong here, so it lives as notes rather than a pin.",
+    "source": {
+      "url": "https://www.instagram.com/reel/Dbr-AmCJir3/",
+      "by": "@guptasaanvi8"
+    },
+    "items": [
+      [
+        "The Pinnawala Elephant Orphanage",
+        "Crowded, and ethically questionable in the poster&rsquo;s view. Pick a properly run sanctuary or a national park instead."
+      ],
+      [
+        "The Kandy cultural dance show",
+        "Rated average and skippable if your days are tight."
+      ],
+      [
+        "Turning up at the Temple of the Sacred Tooth Relic at any old hour",
+        "Go during the casket-viewing times or the inner shrine simply will not be open."
+      ],
+      [
+        "Forcing the famous train ride into a tight schedule",
+        "It eats a whole day. Hire a private car if you are short on time."
+      ],
+      [
+        "Right coast, wrong season",
+        "South coast — Mirissa, Weligama — is best in winter. The east coast is a summer trip."
+      ],
+      [
+        "Assuming cards work everywhere",
+        "Plenty of caf&eacute;s, tuk-tuks and small shops still want cash."
+      ],
+      [
+        "Taking the first tuk-tuk price offered",
+        "Negotiate, or just use PickMe or Uber."
+      ],
+      [
+        "Overpacking the itinerary",
+        "Travel time is much longer than the map makes it look."
+      ],
+      [
+        "Staying only in Colombo",
+        "The good part is everywhere else — Kandy, Nuwara Eliya, Ella, Mirissa, Sigiriya, Arugam Bay, Trincomalee."
+      ]
+    ]
+  }
+}
