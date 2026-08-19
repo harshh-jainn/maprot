@@ -1,0 +1,4 @@
+# Every path needs a review from the owner. Enforced by branch protection once
+# this repo is public (GitHub gates protection rules behind Pro on private
+# repos); until then, treat it as the rule anyway.
+*  @harshh-jainn
