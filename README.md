@@ -10,6 +10,20 @@ view time — photos are inlined, so it works offline and over any static host.
 
 ---
 
+## Heads up: this is vibe-coded slop
+
+Written in one sitting, almost entirely by Claude, while I fed it Instagram
+links and told it what I didn't like. It works — the Sri Lanka board in this
+repo is real output, not a mockup — but it has had approximately zero hours of
+hardening. There are no tests. Error handling is best-effort. Interfaces will
+change without ceremony. Read the code before you trust it with anything you
+care about.
+
+I'm putting it up because it's genuinely useful to me and might be to you, not
+because it's finished.
+
+---
+
 ## The honest architecture
 
 maprot is **a small amount of Python and a skill.** That split is deliberate.
@@ -150,6 +164,30 @@ someone's work as your own. Downloaded videos and transcripts stay in
 
 Some posts are private or gated and need a logged-in session. `--cookies-from`
 exists for accounts you're entitled to read; don't point it at anything else.
+
+## Contributing
+
+**Fork it.** Genuinely — this is a small pile of scripts, and the interesting
+version is probably the one you bend around your own trip, your own map style,
+your own idea of what a good write-up looks like. You don't need permission and
+you don't need to send it back.
+
+If you'd rather contribute here instead:
+
+- **Open an issue** for anything broken, wrong, or missing. Reports of places it
+  mis-identified are the most useful kind — that's the failure mode that
+  matters, and every one of them belongs in the skill as a named trap.
+- **Open a PR** from a branch or from your fork. Keep it small and focused.
+  Changes to *how a place gets written up* belong in
+  [`skills/maprot/SKILL.md`](skills/maprot/SKILL.md), not in Python.
+- **Don't move judgement into the code.** The split described above is the whole
+  design. There is no `maprot describe` and there shouldn't be.
+
+**`main` is pull-request only.** Nobody commits to it directly — not
+contributors, and mostly not me either. Branch, PR, merge. GitHub gates
+protection rules behind Pro for private repos, so this is currently a convention
+rather than something the server enforces; it gets switched on the moment the
+repo goes public. Treat it as binding regardless.
 
 ## Credits
 
