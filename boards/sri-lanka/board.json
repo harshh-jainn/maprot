@@ -520,6 +520,84 @@
           "dur": "55 s"
         }
       ]
+    },
+    {
+      "n": 8,
+      "name": "Arugam Bay",
+      "loc": "Arugam Bay",
+      "type": "Surf town · east coast",
+      "region": "Eastern",
+      "city": "Arugam Bay, Ampara District, Eastern Province",
+      "lat": 6.8469,
+      "lon": 81.8307,
+      "photos": [
+        {
+          "file": "08-arugam-bay-a.jpg",
+          "alt": "Turquoise surf breaking over golden rock"
+        },
+        {
+          "file": "08-arugam-bay-b.jpg",
+          "alt": "Elephants at a lagoon on safari"
+        },
+        {
+          "file": "08-arugam-bay-c.jpg",
+          "alt": "The sun going down over the water"
+        }
+      ],
+      "one": "The east coast — in season exactly when the south is under monsoon.",
+      "unique": "The one place on this board that runs on the <em>opposite season to everywhere else</em>. May to September is summer here while the south coast is in monsoon, which makes it the answer to a trip booked at the wrong time of year for Mirissa and Weligama. A surf town rather than a sight — the poster compares it to what Goa felt like twenty years ago.",
+      "desc": "Long, quiet beaches where turquoise water breaks over shelves of golden rock, low thatched guesthouses set back under the palms, and a pace slow enough that the itinerary is mostly deciding which beach. Inland the lagoons at Pottuvil run through mangroves and lotus flowers at sunrise, and an hour or so south the Kumana lagoons hold elephants, crocodiles and enough birds to make the safari worth the rough road.",
+      "facts": [
+        [
+          "Season",
+          "May–September — summer here while the south coast is in monsoon"
+        ],
+        [
+          "Safari",
+          "Kumana National Park: lagoons, elephants, crocodiles, birds, occasionally leopards"
+        ],
+        [
+          "Sunset",
+          "Elephant Rock, up a short hike — the poster&rsquo;s pick"
+        ],
+        [
+          "Coffee",
+          "Kaafi Arugam Bay, called the best in town"
+        ]
+      ],
+      "near": [
+        [
+          "Pottuvil lagoon — sunrise mangrove boat",
+          "~3 km"
+        ],
+        [
+          "Elephant Rock — sunset hike",
+          "~3 km"
+        ],
+        [
+          "Whiskey Point — surf, slow mornings",
+          "~5 km"
+        ],
+        [
+          "Peanut Farm Beach — quiet, turquoise",
+          "~6 km"
+        ],
+        [
+          "Kumana National Park — safari",
+          "~31 km direct · ~1.5 h"
+        ],
+        [
+          "Ella (pins 4–5)",
+          "~3 h by road"
+        ]
+      ],
+      "sources": [
+        {
+          "url": "https://www.instagram.com/reel/DYhQqNSqnPv/",
+          "by": "@jigyasaamalhotra",
+          "dur": "42 s"
+        }
+      ]
     }
   ],
   "notes": {
